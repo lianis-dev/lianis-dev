@@ -1,8 +1,8 @@
 # About Me :
-🌱16-year-old Aspiring Software Engineer
-💡Competitive Programmer
-💭Passionate about App Development
-📖Currently learning: JavaScript
+🌱16-year-old Aspiring Software Engineer <br>
+💡Competitive Programmer <br>
+💭Passionate about App Development <br>
+📖Currently learning: JavaScript <br>
 
 ## 🌐Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lianis.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/54020140a) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lianisss.exe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/lianis_exe) 
